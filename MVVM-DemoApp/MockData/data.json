@@ -1,0 +1,37 @@
+{
+  "tasks": [
+    {
+      "id": "C7B4E3C9-5B3C-4A2C-9A7C-7A5F9A3D8A11",
+      "title": "Arayüz taslağını bitir",
+      "notes": "Login ekranı + boş durum",
+      "isCompleted": false,
+      "dueDate": "2025-10-05T10:00:00Z",
+      "createdAt": "2025-10-03T08:15:00Z",
+      "updatedAt": "2025-10-03T08:15:00Z",
+      "priority": "high",
+      "tags": ["ui", "sprint-42"],
+      "reminderAt": "2025-10-05T07:00:00Z",
+      "subtasks": []
+    },
+    {
+      "id": "0C1D2E3F-4A5B-6C7D-8E9F-001122334455",
+      "title": "API tasklarını listele",
+      "notes": null,
+      "isCompleted": true,
+      "dueDate": null,
+      "createdAt": "2025-10-02T12:00:00Z",
+      "updatedAt": "2025-10-03T06:30:00Z",
+      "priority": "normal",
+      "tags": ["backend"],
+      "reminderAt": null,
+      "subtasks": [
+        {
+          "id": "11111111-2222-3333-4444-555555555555",
+          "title": "GET /tasks",
+          "isCompleted": true
+        }
+      ]
+    }
+  ]
+}
+
